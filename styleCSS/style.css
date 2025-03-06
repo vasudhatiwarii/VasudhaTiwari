@@ -1,0 +1,28 @@
+*{
+    color:black;
+    padding: 2px;
+    font-size: 20px;
+}
+#one{
+    height: 80px;
+    border-color: black;
+    border-radius: 10px;
+}
+.github{
+    text-align: center;
+    text-transform: capitalize;
+}
+#two{
+    height: 200;
+    padding: 50px;
+    padding-left: 180px;
+}
+#three{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.VSC{
+    text-align: center;
+    font-weight: lighter;
+}
